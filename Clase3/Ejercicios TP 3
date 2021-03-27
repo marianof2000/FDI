@@ -1,0 +1,26 @@
+Trabajo Práctico 3: Estructura alternativa
+
+Ejercicio 1: Ingresar dos números A y B e imprimir el mayor, o cualquiera si son iguales.
+
+Ejercicio 2: Leer un número entero A e imprimir un mensaje indicando si es par o impar.
+
+Ejercicio 3: Leer un número entero N y determinar si es un número natural (positivo y distin-
+to de 0). Si lo es, imprimirlo junto con su doble. En caso contrario, imprimirlo
+junto con su triple.
+
+Ejercicio 4: Ingresar dos números enteros A y B. Desarrollar un programa que determine si
+A es múltiplo de B y si B es múltiplo de A. Imprimir mensajes aclaratorios.
+
+Ejercicio 5: Desarrollar un programa para leer la base y la altura de un triángulo e imprimir
+su superficie. El algoritmo debe validar los datos de entrada, verificando que
+éstos sean números positivos. En caso contrario debe imprimirse el dato erróneo
+junto con una leyenda aclaratoria. Se recuerda que Sup = (Base * Altura) / 2.
+
+Ejercicio 6: Una editorial determina el precio de un libro según la cantidad de páginas que
+contiene. El costo básico del libro es de $125, más $2,20 por página con encua-
+dernación rústica. Si el número de páginas supera las 300 la encuadernación
+debe ser en tela, lo que incrementa el costo en $80. Además, si el número de
+páginas sobrepasa las 600 se hace necesario un procedimiento especial de en-
+cuadernación que incrementa el costo en $136. Desarrollar un programa que
+calcule el costo de un libro dado el número de páginas.
+
