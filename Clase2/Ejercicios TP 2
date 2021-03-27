@@ -1,0 +1,50 @@
+Ejercicio 3: Desarrollar un programa que permita ingresar dos números enteros A y
+B a través del teclado. Imprimir su suma y su diferencia.
+
+Ejercicio 4: Ingresar la longitud del radio de un círculo. Calcular e imprimir:
+La superficie del círculo
+El perímetro de la circunferencia
+La superficie de la esfera
+El volumen de la esfera
+(Sup = p * r2)
+(Per = p * d)
+(Sup = 4 * p * r2)
+(Vol = 4/3 * p * r3)
+
+Ejercicio 5: Escribir un programa que permita ingresar la edad de una persona en
+años y la convierta a días, imprimiendo el resultado. Considerar que to-
+dos los años tienen 365 días.
+
+Ejercicio 6: Leer una medida en metros e imprimir esta medida expresada en centí-
+metros, pulgadas, pies y yardas. Los factores de conversión son:·
+pie = 12 pulgadas
+yarda = 3 pies
+pulgada = 2,54 cm.
+metro = 100 cm.
+
+Ejercicio 7: Ingresar tres números enteros, calcular su promedio y mostrarlo por
+pantalla.
+
+Ejercicio 8: Leer un período en segundos e imprimirlo expresado en días, horas, mi-
+nutos y segundos. Por ejemplo, 200000 segundos equivalen a 2 días, 7
+horas, 33 minutos y 20 segundos.
+
+Ejercicio 9: Una inmobiliaria paga a sus vendedores un salario de $800, más una
+comisión de $50 por cada venta realizada, más el 5% del valor de esas
+ventas. Realizar un programa que imprima el número del vendedor y el
+salario que le corresponde en un determinado mes. Se leen el número
+del vendedor, la cantidad de ventas que realizó y el valor total de las
+mismas.
+
+Ejercicio 10: Un banco necesita para sus cajeros automáticos un programa que lea
+una cantidad de dinero e imprima a cuántos billetes equivale, conside-
+rando que existen billetes de $100, $50, $10, $5 y $1. Desarrollar dicho
+programa de tal forma que se minimice la cantidad de billetes entrega-
+dos por el cajero.
+
+Ejercicio 11: Desarrollar un programa que solicite una temperatura expresada en gra-
+dos centígrados y la imprima convertida a grados Fahrenheit, tal que:
+
+Ejercicio 12: Escribir un programa para convertir un número binario de 4 cifras en un
+número decimal. El número binario se ingresa como un solo número en-
+tero de cuatro dígitos.
