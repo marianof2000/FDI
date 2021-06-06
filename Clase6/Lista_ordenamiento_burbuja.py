@@ -1,3 +1,4 @@
+# Método de burbuja sin optimizar
 # Ordenar lista de menor a mayor
 # lista_a = [1, 9, 15, 14, 12, 35, 56, 50]
 lista_a = [50, 15, 56, 14, 35, 1, 12, 9]
